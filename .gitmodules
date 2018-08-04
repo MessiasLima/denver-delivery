@@ -1,3 +1,12 @@
 [submodule "denver-delivery-database"]
     path = denver-delivery-database
     url = https://github.com/MessiasLima/denver-delivery-database.git
+[submodule "denver-delivery-webservice"]
+	path = denver-delivery-webservice
+	url = https://github.com/MessiasLima/denver-delivery-webservice.git
+[submodule "denver-delivery-app-manager"]
+	path = denver-delivery-app-manager
+	url = https://github.com/MessiasLima/denver-delivery-app-manager.git
+[submodule "denver-delivery-app-customer"]
+	path = denver-delivery-app-customer
+	url = https://github.com/MessiasLima/denver-delivery-app-customer.git
